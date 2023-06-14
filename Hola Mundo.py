@@ -1,1 +1,3 @@
-print("Hola Mundo") #Envia a la consola un mensaje 
+
+mensaje = "Hola Mundo"
+print(mensaje, "Me llamo Krone") #Envia a la consola un mensaje 
