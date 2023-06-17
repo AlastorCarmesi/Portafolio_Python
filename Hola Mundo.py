@@ -1,3 +1,4 @@
 
 mensaje = "Hola Mundo"
-print(mensaje, "Me llamo Krone") #Envia a la consola un mensaje 
+edad = 2
+print(mensaje, "Me llamo Krone tengo",edad, "años de uso") #Envia a la consola un mensaje 
