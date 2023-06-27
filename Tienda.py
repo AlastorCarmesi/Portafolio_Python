@@ -18,3 +18,13 @@ print("Resultados:",
 #Sumatoria
 Sum = Cant_Payasos + Cant_Dolls
 print("Total del peso del paquete:", Sum)
+
+'''
+Operacion avanzada...
+'''
+Num1 = 3
+Num2 = 2
+Num3 = 5
+
+calculo = (Num1+Num2/Num2*Num3)**2
+print("Resultaado de la operacion:",calculo)
