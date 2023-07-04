@@ -15,7 +15,7 @@ print("Multiplicacion: ",cadena5 * 5)
 
 #Debanado de cadenas 
 print("Debanado de cadena: ", cadena0[0 : 5]) #permite asignar la poscicion de 0 a X depende de la cantidad de la cadena y obtiene el valor como tambien los espacios
-
+print("Debanado de cadena: ", cadena0[-5 : ]) #se asigna una pocision negativa de la cadena 
 #Metodos aplicados en cadenas 
 print("Minuscula: ", cadena0.lower()) #Convierte en minusculas a la cadena
 print("Mayuscula: ", cadena0.upper()) #Convierte en Mayusculas a la cadena
