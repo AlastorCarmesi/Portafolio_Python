@@ -7,6 +7,8 @@ from math import sqrt #Esta funcion permite sacar las raices cuadradas
 
 #print(sqrt(100)) #daremos la funcion de raiz cuadrada
 
+print("Instrucciones de uso del programa: \n - Usar numeros enteros exclusivamente. \n -usar numeros no letras")
+
 A = int(input("Ingresa el digita A: "))
 B = int(input("Ingresa el digita B: "))
 C = int(input("Ingresa el digita C: "))
