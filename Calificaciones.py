@@ -16,7 +16,7 @@ EF: examen final
 #Importando modulos necesarios
 import time
 
-#Practicas 
+#Promedio de Practicas, ingresamos los datos siendo de tipo float 
 P1 = float(input("Calificacion de la primera practica: "))
 P2 = float(input("Calificacion de la segunda practica: "))
 P3 = float(input("Calificacion de la tercera practica: "))
@@ -25,7 +25,7 @@ P3 = float(input("Calificacion de la tercera practica: "))
 PP = (P1 + P2 + P3)/3
 print("Promedio de las practicas:", PP)
 
-#Examenes 
+#Promedio de los Examenes parcial y final aplicamos la misma funcion 
 EP = float(input("Calificacion de examen parcial: "))
 EF = float(input("Calificacion de examen final: "))
 
